@@ -1,3 +1,6 @@
+Video Demonstrations and Writeup:
+https://drive.google.com/file/d/1b0hTz_UDx4_6l3xqNjiF7DCZ7A8FRwBz/view?usp=sharing
+
 ### Rigid Rotating Motion user guide
 
 
